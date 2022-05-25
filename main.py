@@ -25,7 +25,7 @@ for mes in lista_meses:
             from_="+19804002866",
             body=f'No mês de {mes} o vendedor {vendedor}, bateu a meta e realizou {vendas} Vendas !!! ')
         print('SMS enviado com sucesso !', message.sid)
-
+#teste git
 
 
 
